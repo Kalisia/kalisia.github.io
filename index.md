@@ -3,6 +3,6 @@
   <title>Kalisia</title>
  </head>
  <body>
-  <p><a href="https://www.linkedin.com/in/kalisia/">Meu Linkedin</a></p>
+  <a href="https://www.linkedin.com/in/kalisia/">Meu Linkedin</a>
  </body>
 </html>
