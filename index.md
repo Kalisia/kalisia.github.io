@@ -1,7 +1,8 @@
-<!DOCTYPE html>
 <html>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+ <head>
+  <title>Minha Página</title>
+ </head>
+ <body>
+  Este é o conteúdo da minha página Web!
 </body>
 </html>
