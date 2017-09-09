@@ -1,8 +1,8 @@
 <html>
  <head>
-  <title>Minha Página</title>
+  <title>Kalisia</title>
  </head>
  <body>
-  Este é o conteúdo da minha página Web!
+  Meu nome é Kalisia, moro no Rio de Janeiro - Brasil e este é o meu portfólio.
 </body>
 </html>
