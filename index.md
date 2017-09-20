@@ -4,7 +4,7 @@
   </title>
  </head>
  <body>
-  <p>You can find my curriculum here.</p>
+  <h3>You can find my curriculum here:</h3>
   <a href="https://www.linkedin.com/in/kalisia/">Linkedin</a>
  </body>
 </html>
