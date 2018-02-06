@@ -427,6 +427,12 @@
 		color: #89abc6;
 	}
 
+	div#passeidireto img
+	{
+    		width: 400px;
+    		margin: auto;
+	}
+
 	.column1,
 	.column2,
 	.column3,
