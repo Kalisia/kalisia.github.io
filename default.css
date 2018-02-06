@@ -489,8 +489,7 @@
 	}
 
 
-	div#passeidireto img
+	#passeidireto #sidebar
 	{
-    		width: 400px;
-    		margin: auto;
+    		width: 100%;
 	}
