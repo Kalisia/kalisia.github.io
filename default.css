@@ -487,3 +487,10 @@
 		border-right: 1px solid #DADADA;
 		border-left: 1px solid #DADADA;
 	}
+
+
+	#passeidireto img
+	{
+    		width: 400px;
+    		margin: auto;
+	}
